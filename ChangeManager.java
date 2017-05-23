@@ -5,7 +5,7 @@ import plans.adt.ChangeManagerInterface;
 
 /**
  * 
- * @author Bolatzhan Kumalakov
+ * @author Aidana
  */
 public class ChangeManager implements ChangeManagerInterface {
     
