@@ -6,7 +6,7 @@ import plans.adt.Queue;
 /**
  * This should be your implementation of the queue ADT.
  * 
- * @author Bolatzhan Kumalakov
+ * @author Aidana
  */
 public class ChangeQueue implements Queue {
         private Change[] values = new Change[5];
