@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Bolatzhan Kumalakov
+ * @author Aidana
  */
 public class InClassStack {
 
