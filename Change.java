@@ -7,7 +7,7 @@ import java.util.Date;
  * You are not required to make any modifications to this code.
  * Just use it in order to populate the stack.
  * 
- * @author Bolatzhan Kumalakov
+ * @author Aidana
  */
 public class Change {
     
