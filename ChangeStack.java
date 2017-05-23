@@ -6,7 +6,7 @@ import plans.adt.Stack;
 /**
  * This should be your implementation of the stack ADT.
  * 
- * @author Bolatzhan Kumalakov
+ * @author Aidana
  */
 public class ChangeStack implements Stack {
     private Change[] values; 
